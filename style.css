@@ -1,9 +1,19 @@
+body{
+    background: black;
+}
 h2{
+
     font-style:Time new roman;
-    color: purple;
+    color:plum;
 }
 
 p{
+    color: white;
     font-style:arial;
     font-size: 22px;
+}
+
+hr{
+    color: palevioletred;
+    size: 10px;
 }
